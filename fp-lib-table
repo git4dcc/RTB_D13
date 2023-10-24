@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name _Local)(type KiCad)(uri ${KIPRJMOD}/../Local.pretty)(options "")(descr ""))
+  (lib (name _Samac)(type KiCad)(uri C:/RnD/NMRA/_AtmelStudio/SamacSys/SamacSys_Parts.pretty)(options "")(descr ""))
+  (lib (name MAL219691152E3)(type Legacy)(uri C:/RnD/NMRA/_KiCad/Kicad_D13.2/Local.pretty/MAL219691152E3.mod)(options "")(descr "")(disabled))
+)
