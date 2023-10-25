@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 Text Notes 750  900  0    118  ~ 0
-ComEXP
+Coach-to-Coach transmit/recieve
 Wire Wire Line
 	2600 1700 2750 1700
 Wire Wire Line
