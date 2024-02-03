@@ -14,31 +14,31 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Sheet
-S 3350 3250 1750 750 
+S 2550 3200 1750 750 
 U 5B6C6B9D
 F0 "CPU" 79
 F1 "D13cpu.sch" 79
 $EndSheet
 $Sheet
-S 5600 3250 1750 750 
+S 4800 3200 1750 750 
 U 5B6D3404
 F0 "Railcom" 79
 F1 "D13rcm.sch" 79
 $EndSheet
 $Sheet
-S 5600 4400 1750 750 
+S 4800 4350 1750 750 
 U 5B6D9789
 F0 "Com" 79
 F1 "D13com.sch" 79
 $EndSheet
 $Sheet
-S 7900 4400 2000 750 
+S 7100 4350 2000 750 
 U 5DDD579A
 F0 "SPI/LED" 79
 F1 "D13led.sch" 79
 $EndSheet
 $Sheet
-S 7900 3250 2000 750 
+S 7100 3200 2000 750 
 U 5CA7768A
 F0 "Power" 79
 F1 "D13pwr.sch" 79
