@@ -9,8 +9,8 @@ The D13 LED decoder is a drop in design for Minitrix (#15791) coach with no mech
 
 The decoder has the following features,
 - **DCC**
-  - DCCA automatic logon
-  - DCCR protocol extension
+  - DCC-A automatic logon
+  - DCC-R protocol extension
 - **Railcom**
   - Channel 1/2
   - POM, xPOM
