@@ -12,6 +12,7 @@ The decoder has the following features,
 - **DCC**
   - DCC-A automatic logon
   - DCC-R protocol extension
+  - Service Mode Programming
 - **Railcom**
   - Channel 1/2
   - POM, xPOM
@@ -23,7 +24,7 @@ The decoder has the following features,
 - Corridor (11 LEDs), Cabin (13 LEDs), Lavatory (2 LEDs)
 - CPU heartbeat LED
 - motion sensor
-- fast firmware update within seconds on main tracks via DCCR
+- fast firmware update within seconds on main tracks via DCC-R
 
 [more](https://rtb4dcc.de/hardware/decoder/d13/)
 
