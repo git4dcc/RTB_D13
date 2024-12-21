@@ -13,7 +13,7 @@ My Homebrew [D13](https://rtb4dcc.de/hardware/decoder/d13/) LED decoder is a dro
 
 </details>
 
-<img src="https://www.spurweite-n.de/NDBPics/Minitrix/15791.jpg" width=400>
+<img src="supplemental/images/D13_main.jpg">
 <br>
 
 ## Decoder features
@@ -27,24 +27,23 @@ My Homebrew [D13](https://rtb4dcc.de/hardware/decoder/d13/) LED decoder is a dro
   - DYN: QoS, Track-Voltage, Scap-Voltage, Temp, Ambient light
 - 1x4F/2.8V SCAP (on PCB)
 - Inrush limited
-- motor current limited to 500mA (short circuit protected)
+- step up/down converter
 - max track voltage 25V
 - Corridor (11 LEDs), Cabin (13 LEDs), Lavatory (2 LEDs)
-- CPU heartbeat LED
+- Status LEDs: heartbeat, charging, no-power
 - motion sensor
+- ambient light sensor
 - fast firmware update within seconds on main tracks via DCC-R
 
 # Hardware
 The current PCB layout uses SMD footprints with 0.5mm pitch and mainly 0603 parts. Reflow soldering is recommended whereas handsoldering will be difficult.
 
-<img src="https://rtb4dcc.de/wp-content/uploads/2023/06/D13_top.jpg" width=800>
-<img src="https://rtb4dcc.de/wp-content/uploads/2023/06/D13_btm.jpg" width=800>
-
 ## PCB
 - 4-layer PCB, FR4, 1mm
 - CPU: AVR64DA48
 
-[Schematic](doc/D13_schematic.pdf) | [Layout](doc/D13_layout.pdf)
+<img src="supplemental/images/D13_top.jpg">
+<img src="supplemental/images/D13_btm.jpg">
 
 ## Kicad
 [Schematic](doc/D13_schematic.pdf) | [Layout](doc/D13_layout.pdf) | [Gerber](gerber)
