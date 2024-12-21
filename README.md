@@ -5,6 +5,8 @@
 
 My Homebrew [D13](https://rtb4dcc.de/hardware/decoder/d13/) LED decoder is a drop in design for Minitrix (#15791) coach with no mechanical modification required. The decoder is designed to integrate into the [RTB](https://rtb4dcc.de/concept/) digital control infrastructure.
 
+Current status: $${\color{Red}experimental}$$
+
 <details>
 <summary>User Guides</summary>
 
