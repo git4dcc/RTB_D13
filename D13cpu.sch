@@ -119,23 +119,23 @@ COM-1 (default)
 $Comp
 L Connector_Generic:Conn_01x01 J2
 U 1 1 60F14A0F
-P 8450 3500
-F 0 "J2" H 8530 3542 50  0000 L CNN
-F 1 "Conn_01x01" H 8530 3451 50  0000 L CNN
-F 2 "TestPoint:TestPoint_THTPad_D4.0mm_Drill2.0mm" H 8450 3500 50  0001 C CNN
-F 3 "~" H 8450 3500 50  0001 C CNN
-	1    8450 3500
+P 8450 3750
+F 0 "J2" H 8550 3750 50  0000 L CNN
+F 1 "Conn_01x01" H 8530 3701 50  0001 L CNN
+F 2 "TestPoint:TestPoint_THTPad_D4.0mm_Drill2.0mm" H 8450 3750 50  0001 C CNN
+F 3 "~" H 8450 3750 50  0001 C CNN
+	1    8450 3750
 	1    0    0    -1  
 $EndComp
 $Comp
 L Connector_Generic:Conn_01x01 J3
 U 1 1 60F191BE
-P 8450 3750
-F 0 "J3" H 8530 3792 50  0000 L CNN
-F 1 "Conn_01x01" H 8530 3701 50  0000 L CNN
-F 2 "TestPoint:TestPoint_THTPad_D4.0mm_Drill2.0mm" H 8450 3750 50  0001 C CNN
-F 3 "~" H 8450 3750 50  0001 C CNN
-	1    8450 3750
+P 8450 4000
+F 0 "J3" H 8550 4000 50  0000 L CNN
+F 1 "Conn_01x01" H 8530 3951 50  0001 L CNN
+F 2 "TestPoint:TestPoint_THTPad_D4.0mm_Drill2.0mm" H 8450 4000 50  0001 C CNN
+F 3 "~" H 8450 4000 50  0001 C CNN
+	1    8450 4000
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -210,9 +210,9 @@ Wire Wire Line
 	2600 3500 2350 3500
 Text GLabel 2350 3500 0    50   Input ~ 0
 BMA.int
-Text GLabel 8250 3500 0    50   Input ~ 0
-DCC-a
 Text GLabel 8250 3750 0    50   Input ~ 0
+DCC-a
+Text GLabel 8250 4000 0    50   Input ~ 0
 DCC-b
 Text GLabel 4050 3600 2    50   Output ~ 0
 ACK
@@ -727,4 +727,12 @@ Wire Notes Line
 	9750 5450 7150 5450
 Wire Notes Line
 	7150 5450 7150 3250
+Text Notes 7250 1150 0    50   ~ 10
+Status LEDs
+Text Notes 1200 1150 0    50   ~ 10
+CPU
+Text Notes 7250 3400 0    50   ~ 10
+DCC & Debug IF
+Text Notes 1200 5200 0    50   ~ 10
+Motion Sensor (optional)
 $EndSCHEMATC

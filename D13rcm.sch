@@ -299,7 +299,7 @@ Wire Notes Line
 	4350 3850 1000 3850
 Wire Notes Line
 	1000 3850 1000 1050
-Text Notes 1100 1250 0    59   ~ 0
+Text Notes 1100 1250 0    59   ~ 12
 RCM.tx
 Wire Notes Line
 	5300 1050 8900 1050
@@ -309,7 +309,7 @@ Wire Notes Line
 	8900 3850 5300 3850
 Wire Notes Line
 	5300 3850 5300 1050
-Text Notes 5450 1250 0    59   ~ 0
+Text Notes 5450 1250 0    59   ~ 12
 RCM.rx
 Wire Wire Line
 	3300 1300 3450 1300

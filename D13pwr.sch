@@ -435,7 +435,7 @@ Wire Notes Line
 	9450 5200 3800 5200
 Wire Notes Line
 	3800 5200 3800 3100
-Text Notes 8950 3300 0    59   ~ 0
+Text Notes 8950 3300 0    59   ~ 12
 SuperCap
 Wire Notes Line
 	1750 2950 9500 2950
@@ -453,9 +453,9 @@ Wire Notes Line
 	3650 5200 1750 5200
 Wire Notes Line
 	1750 5200 1750 3100
-Text Notes 3350 3300 0    59   ~ 0
+Text Notes 3350 3300 0    59   ~ 12
 ACK
-Text Notes 8850 850  0    59   ~ 0
+Text Notes 8850 850  0    59   ~ 12
 Main Power
 Wire Notes Line
 	1750 5350 3650 5350
@@ -465,7 +465,7 @@ Wire Notes Line
 	3650 7550 1750 7550
 Wire Notes Line
 	1750 7550 1750 5350
-Text Notes 3350 5500 0    59   ~ 0
+Text Notes 3350 5550 0    59   ~ 12
 ADC
 $Comp
 L Device:R R69

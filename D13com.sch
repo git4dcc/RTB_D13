@@ -421,4 +421,6 @@ Wire Notes Line
 	7600 4250 1200 4250
 Wire Notes Line
 	1200 4250 1200 1450
+Text Notes 6550 1650 0    50   ~ 10
+Wireless Car-2-Car bus
 $EndSCHEMATC

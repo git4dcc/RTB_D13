@@ -1297,8 +1297,8 @@ Wire Notes Line
 	10250 4000 7700 4000
 Wire Notes Line
 	7700 4000 7700 1150
-Text Notes 9850 1350 0    59   ~ 0
-Opto
+Text Notes 9650 1300 0    59   ~ 12
+Opto Sensor
 Text GLabel 1300 3900 0    50   Input ~ 0
 ~LED.oe
 $Comp
@@ -1331,6 +1331,6 @@ Wire Notes Line
 	6850 6600 750  6600
 Wire Notes Line
 	750  6600 750  1150
-Text Notes 850  1350 0    50   ~ 0
+Text Notes 850  1350 0    50   ~ 10
 LEDs
 $EndSCHEMATC
