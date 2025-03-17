@@ -5,7 +5,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 6
 Title "Minitrix coach ambient"
-Date "2022-01-25"
+Date "2025-03-17"
 Rev "4"
 Comp "Frank Schumacher"
 Comment1 "D13.4"
