@@ -72,6 +72,9 @@ Example: **D13F0001**.hex
 
 [Firmware files](firmware)
 
+# Images
+<img src="supplemental/images/D13_usecase1.JPG" width=400> <img src="supplemental/images/D13_usecase2.JPG" width=400>
+
 # YouTube
 See the D13 decoder in action.<br><br>
 [<img src="https://img.youtube.com/vi/nAJpYsdv1IA/0.jpg" width=260>](https://youtube.com/watch?v=nAJpYsdv1IA)
