@@ -70,8 +70,13 @@ Example: **D13F0001**.hex
 | **code** | Type of code contained (**R**=rom, **B**=bootloader, **F**=flash, **U**=bld update, **P**=UPDI factory code) |
 | **version** | Release version (**####**) |
 
+[Firmware files](firmware)
+
 # YouTube
 See the D13 decoder in action.<br><br>
 [<img src="https://img.youtube.com/vi/nAJpYsdv1IA/0.jpg" width=260>](https://youtube.com/watch?v=nAJpYsdv1IA)
+[<img src="https://img.youtube.com/vi/Nc4pEvq2rl0/0.jpg" width=260>](https://youtube.com/watch?v=Nc4pEvq2rl0)
+[<img src="https://img.youtube.com/vi/OyKhkpoBsgY/0.jpg" width=260>](https://youtube.com/watch?v=OyKhkpoBsgY)
+
 
 This project is intended for hobby use only and is distributed in accordance with the Apache License 2.0 agreement.
