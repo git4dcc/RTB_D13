@@ -11,6 +11,7 @@ Current status: $${\color{Red}experimental}$$
 <summary>See also</summary>
 
 - [RTB_D12 - custom](https://github.com/git4dcc/RTB_D12) (Fleischmann V100)
+- [RTB_D15 - custom](https://github.com/git4dcc/RTB_D15) (Minitrix V160)
 - [RTB_D16 - NEM651](https://github.com/git4dcc/RTB_D16)
 - [RTB_D20 - NEM651](https://github.com/git4dcc/RTB_D20)
 - [RTB_D21 - Next18](https://github.com/git4dcc/RTB_D21)
